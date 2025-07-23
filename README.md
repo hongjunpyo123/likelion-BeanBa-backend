@@ -10,7 +10,7 @@
   - [데모](#데모)
   - [팀원 소개](#팀원-소개)
   - [프로젝트 구조](#프로젝트-구조)
-  - [인프라](#인프라)
+  - [infra](#infra)
   - [회고](#회고)
 ---
 ## 프로젝트 소개
@@ -221,7 +221,7 @@ clearplate/
 
 
 ---
-## 인프라
+## infra
 <img width="954" height="506" alt="멋사-beanba-인프라" src="https://github.com/user-attachments/assets/7e27ae15-d409-46a4-b54c-2f8fe3d39a06" />
 
 ---
