@@ -59,6 +59,7 @@ BeanBa는 다음과 같은 주요 기능을 제공합니다:
 ### 협업 툴
 - ![Git](https://img.shields.io/badge/Git-2.36-red)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### 문서화
 - ![Swagger](https://img.shields.io/badge/Swagger-API_Docs-green)
