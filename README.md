@@ -444,3 +444,12 @@ beanBa-backend/
 ---
 <img width="1051" height="592" alt="스크린샷 2025-07-28 오전 10 13 44" src="https://github.com/user-attachments/assets/8fe1973e-fa64-4169-ba70-b6dd5e23b7d9" />
 <img width="1051" height="592" alt="스크린샷 2025-07-28 오전 10 14 10" src="https://github.com/user-attachments/assets/180ee191-c637-4b39-b087-927625c1c001" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 50 41" src="https://github.com/user-attachments/assets/405fa701-5121-434d-9fe7-1b274cd04363" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 51 00" src="https://github.com/user-attachments/assets/ffe43a63-793a-4caa-b023-e04427ffaa1a" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 51 16" src="https://github.com/user-attachments/assets/0dc3e87f-46f4-408a-93c7-a8c5f7e93ab1" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 51 30" src="https://github.com/user-attachments/assets/a8cc7568-1496-4b8f-8a48-edaae4b7e421" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 51 45" src="https://github.com/user-attachments/assets/e6058046-2592-40ce-886a-9193b36f250c" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 51 59" src="https://github.com/user-attachments/assets/f6ea12ba-7d10-425a-8025-313dc71ddcf6" />
+<img width="1054" height="594" alt="스크린샷 2025-07-28 오전 10 52 12" src="https://github.com/user-attachments/assets/601b9122-29c6-47b6-bd11-9dd00a4893f9" />
+
+
