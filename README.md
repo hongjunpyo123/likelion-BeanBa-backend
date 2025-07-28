@@ -93,15 +93,13 @@ CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
 현재 서비스는 해커톤 이후로 중단되었습니다.
 
 ### 스크린샷
-### 스크린샷
 | 기능 | 화면 |
 |------|------|
-| **앱 아이콘 & 로그인** | <img src="https://github.com/user-attachments/assets/58a2f0d1-74b0-4711-9cbc-c1d5625ada92" width="150"> <img src="https://github.com/user-attachments/assets/3b63604d-5bfb-467f-aad9-82509b6f521b" width="150"> |
-| **메인 화면** | <img src="https://github.com/user-attachments/assets/ce20614a-84de-4bc0-81c3-e64c02e35ca8" width="150"> <img src="https://github.com/user-attachments/assets/a7945644-f1e2-4887-b398-5054a23be0ca" width="150"> |
-| **메인 화면 (추가)** | <img src="https://github.com/user-attachments/assets/08003a80-6a44-46cd-a937-f2940693eabd" width="150"> |
-| **식당 검색** | <img src="https://github.com/user-attachments/assets/35b72ac2-b13d-4938-9b81-decb5eeccbfe" width="150"> <img src="https://github.com/user-attachments/assets/fa491809-9378-4043-b1a6-8b6e64ddae73" width="150"> |
-| **QR 인증** | <img src="https://github.com/user-attachments/assets/8f4cabce-4071-4245-bb26-4aa1b1722564" width="150"> <img src="https://github.com/user-attachments/assets/3cd3aa33-8bea-4b25-8d1b-98cf3f752504" width="150"> |
-| **사진 업로드** | <img src="https://github.com/user-attachments/assets/58f83764-b35f-4246-b03d-ee2739139aaf" width="150"> <img src="https://github.com/user-attachments/assets/df118241-5807-49ac-8d2a-5dabffcf4bef" width="150"> |
+| **앱 아이콘 & 로그인** | <img width="2048" height="2048" alt="BeanBa_logo" src="https://github.com/user-attachments/assets/1f3a9d81-c514-47b1-89c4-595dc2a39efa" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 17 39" src="https://github.com/user-attachments/assets/f11aee5a-8f07-4f1a-8ea7-c5c763ff4b0f" /> |
+| **메인 화면** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 18 31" src="https://github.com/user-attachments/assets/6f5ffcad-2e38-421a-b551-a7f6d1383880" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 19 25" src="https://github.com/user-attachments/assets/be52900b-9e7c-4a52-9e8d-b5e204da79a0" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 20 39" src="https://github.com/user-attachments/assets/9216bfe3-d13f-45a7-9db3-2412620c13ea" />|
+| **상품 보기** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 21 34" src="https://github.com/user-attachments/assets/59918d27-6a97-4caa-8d44-4b84bcd71b8a" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 25 05" src="https://github.com/user-attachments/assets/3a7ce4ee-d424-46e4-a3ed-9bf0f77ec29b" /> <img width="1468" height="322" alt="스크린샷 2025-07-28 오전 10 24 09" src="https://github.com/user-attachments/assets/d826f1b9-a185-4f9d-b85f-1eab85a8e8b9" />|
+| **상품 등록하기(판매하기)** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 26 06" src="https://github.com/user-attachments/assets/c1e45940-ae02-40fe-b86a-6642a9e0c523" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 26 52" src="https://github.com/user-attachments/assets/10777dec-67ce-4ed1-b820-6186886e86eb" /> <img width="1468" height="689" alt="스크린샷 2025-07-28 오전 10 27 35" src="https://github.com/user-attachments/assets/a07904d0-e65f-4739-ac62-38d40b0cbb6e" />|
+| **식재료 검색** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 29 07" src="https://github.com/user-attachments/assets/a3071420-104f-44f7-8e3b-67fc89328574" /> <img width="1468" height="633" alt="스크린샷 2025-07-28 오전 10 30 16" src="https://github.com/user-attachments/assets/b6c2d9d7-9483-4f62-bb4b-0a1a33d9ab97" /> |
 | **사진 업로드 (완료)** | <img src="https://github.com/user-attachments/assets/7f6b2518-01fc-4f09-9d32-506616527dda" width="150"> |
 | **완식률 분석** | <img src="https://github.com/user-attachments/assets/d33d2f56-0367-451b-aff4-f82faaf93655" width="150"> <img src="https://github.com/user-attachments/assets/3eb6df21-c4c5-4425-adbe-cb79e9951568" width="150"> |
 | **마이페이지 & 쿠폰함** | <img src="https://github.com/user-attachments/assets/30673109-2c9b-4358-bfe2-710e433c2656" width="150"> <img src="https://github.com/user-attachments/assets/0ccaf618-86d4-40ea-b8cb-f26da449f70" width="150"> |
@@ -143,91 +141,287 @@ CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
 
 - GitHub: [@Nam-I](https://github.com/Nam-I)
 
-<img src="https://avatars.githubusercontent.com/u/71905358?v=4" width="100" height="100" style="border-radius: 50%;" />
-
-- GitHub: [@Nam-I](https://github.com/Nam-I)
-
 
 ---
 ## 프로젝트 구조
 ```bash
-clearplate/
+beanBa-backend/
+├── build/
+│   ├── classes/
+│   ├── generated/
+│   ├── reports/
+│   ├── resources/
+│   ├── test-results/
+│   └── tmp/
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── src/
 │   ├── main/
-│   │   ├── java/com/qithon/clearplate/
-│   │   │   ├── ClearplateApplication.java
-│   │   │   ├── domain/
-│   │   │   │   ├── CLPrestaurant/
+│   │   ├── java/likelion/beanBa/backendProject/
+│   │   │   ├── BackendProjectApplication.java
+│   │   │   ├── admin/
+│   │   │   │   ├── category/
 │   │   │   │   │   ├── controller/
-│   │   │   │   │   ├── dto/
-│   │   │   │   │   │   ├── request/
-│   │   │   │   │   │   └── response/
-│   │   │   │   │   ├── entity/
-│   │   │   │   │   ├── repository/
-│   │   │   │   │   ├── service/
-│   │   │   │   │   └── vo/
-│   │   │   │   ├── coupon/
-│   │   │   │   │   ├── controller/
-│   │   │   │   │   ├── dto/
-│   │   │   │   │   │   ├── request/
-│   │   │   │   │   │   └── response/
-│   │   │   │   │   ├── entity/
-│   │   │   │   │   ├── repository/
+│   │   │   │   │   │   └── AdminCategoryController.java
 │   │   │   │   │   └── service/
-│   │   │   │   ├── food/
+│   │   │   │   │       ├── AdminCategoryService.java
+│   │   │   │   │       └── AdminCategoryServiceImpl.java
+│   │   │   │   ├── dashboard/
 │   │   │   │   │   ├── controller/
-│   │   │   │   │   ├── dto/
-│   │   │   │   │   ├── entity/
-│   │   │   │   │   ├── repository/
+│   │   │   │   │   │   └── AdminDashboardController.java
 │   │   │   │   │   └── service/
-│   │   │   │   ├── point/
+│   │   │   │   │       ├── AdminDashboardService.java
+│   │   │   │   │       └── AdminDashboardServiceImpl.java
+│   │   │   │   ├── member/
 │   │   │   │   │   ├── controller/
-│   │   │   │   │   ├── dto/
-│   │   │   │   │   │   └── request/
+│   │   │   │   │   │   └── AdminMemberController.java
 │   │   │   │   │   └── service/
-│   │   │   │   ├── stamp/
-│   │   │   │   │   ├── controller/
-│   │   │   │   │   ├── entity/
-│   │   │   │   │   ├── repository/
-│   │   │   │   │   └── service/
-│   │   │   │   └── user/
+│   │   │   │   │       ├── AdminMemberService.java
+│   │   │   │   │       └── AdminMemberServiceImpl.java
+│   │   │   │   └── product/
 │   │   │   │       ├── controller/
-│   │   │   │       ├── dto/
-│   │   │   │       │   ├── request/
-│   │   │   │       │   └── response/
-│   │   │   │       ├── entity/
-│   │   │   │       ├── repository/
+│   │   │   │       │   └── AdminSalePostController.java
 │   │   │   │       └── service/
-│   │   │   ├── global/
-│   │   │   │   ├── common/
-│   │   │   │   │   ├── dto/response/
-│   │   │   │   │   └── threadlocal/
+│   │   │   │           ├── AdminSalePostService.java
+│   │   │   │           └── AdminSalePostServiceImpl.java
+│   │   │   ├── chatting/
 │   │   │   │   ├── config/
+│   │   │   │   │   └── JacksonConfig.java
+│   │   │   │   ├── controller/
+│   │   │   │   │   └── ChattingController.java
+│   │   │   │   ├── dto/
+│   │   │   │   │   ├── ChattingMessageResponse.java
+│   │   │   │   │   ├── ChattingRequest.java
+│   │   │   │   │   └── ChattingRoomListResponse.java
+│   │   │   │   ├── entity/
+│   │   │   │   │   ├── ChattingMessage.java
+│   │   │   │   │   └── ChattingRoom.java
+│   │   │   │   ├── handler/
+│   │   │   │   │   ├── CustomHandshakeHandler.java
+│   │   │   │   │   └── StompPrincipal.java
+│   │   │   │   ├── repository/
+│   │   │   │   │   ├── ChattingMessageRepository.java
+│   │   │   │   │   ├── ChattingRoomCustom.java
+│   │   │   │   │   ├── ChattingRoomRepository.java
+│   │   │   │   │   └── impl/
+│   │   │   │   │       └── ChattingRoomCustomImpl.java
+│   │   │   │   ├── service/
+│   │   │   │   │   └── ChattingService.java
+│   │   │   │   └── websocket/
+│   │   │   │       └── config/
+│   │   │   │           └── WebSocketConfig.java
+│   │   │   ├── deploy_health/
+│   │   │   │   └── HealthCheckController.java
+│   │   │   ├── global/
+│   │   │   │   ├── config/
+│   │   │   │   │   └── RestTemplateConfig.java
 │   │   │   │   ├── exception/
-│   │   │   │   ├── oauth2/
-│   │   │   │   └── security/
-│   │   │   │       ├── config/
-│   │   │   │       ├── core/
-│   │   │   │       └── jwt/
-│   │   │   └── infra/
-│   │   │       ├── Aws/
-│   │   │       │   └── awsTestContoller/
-│   │   │       └── gemini/
-│   │   │           ├── dto/
-│   │   │           │   ├── request/
-│   │   │           │   └── response/
-│   │   │           └── geminiTestController/
+│   │   │   │   │   ├── GlobalExceptionHandler.java
+│   │   │   │   │   └── UnauthenticatedException.java
+│   │   │   │   └── util/
+│   │   │   │       ├── AuthUtils.java
+│   │   │   │       ├── FileValidator.java
+│   │   │   │       ├── InputValidator.java
+│   │   │   │       └── SalePostResponseUtils.java
+│   │   │   ├── infra/
+│   │   │   │   ├── controller/
+│   │   │   │   ├── dto/
+│   │   │   │   ├── entity/
+│   │   │   │   ├── repository/
+│   │   │   │   └── service/
+│   │   │   ├── like/
+│   │   │   │   ├── controller/
+│   │   │   │   │   ├── SalePostLikeController.java
+│   │   │   │   │   └── TestSalePostLikeController.java
+│   │   │   │   ├── entity/
+│   │   │   │   │   └── SalePostLike.java
+│   │   │   │   ├── repository/
+│   │   │   │   │   └── SalePostLikeRepository.java
+│   │   │   │   └── service/
+│   │   │   │       ├── SalePostLikeService.java
+│   │   │   │       └── SalePostLikeServiceImpl.java
+│   │   │   ├── log/
+│   │   │   │   ├── entity/
+│   │   │   │   │   ├── LoginLog.java
+│   │   │   │   │   └── UpdateLog.java
+│   │   │   │   ├── repository/
+│   │   │   │   │   ├── LoginLogRepository.java
+│   │   │   │   │   └── UpdateLogRepository.java
+│   │   │   │   ├── service/
+│   │   │   │   │   └── LogService.java
+│   │   │   │   └── util/
+│   │   │   │       └── IpUtil.java
+│   │   │   ├── member/
+│   │   │   │   ├── Entity/
+│   │   │   │   │   └── Member.java
+│   │   │   │   ├── auth/
+│   │   │   │   │   ├── Entity/
+│   │   │   │   │   │   └── Auth.java
+│   │   │   │   │   ├── controller/
+│   │   │   │   │   │   └── AuthController.java
+│   │   │   │   │   ├── dto/
+│   │   │   │   │   │   ├── JwtToken.java
+│   │   │   │   │   │   ├── LoginRequest.java
+│   │   │   │   │   │   ├── LoginResponse.java
+│   │   │   │   │   │   └── RefreshTokenRequest.java
+│   │   │   │   │   ├── repository/
+│   │   │   │   │   │   └── AuthRepository.java
+│   │   │   │   │   └── service/
+│   │   │   │   │       └── AuthService.java
+│   │   │   │   ├── controller/
+│   │   │   │   │   └── MemberController.java
+│   │   │   │   ├── dto/
+│   │   │   │   │   ├── AdminMemberDTO.java
+│   │   │   │   │   ├── MemberRequest.java
+│   │   │   │   │   ├── MemberResponse.java
+│   │   │   │   │   └── SignupRequest.java
+│   │   │   │   ├── email/
+│   │   │   │   │   └── service/
+│   │   │   │   │       ├── EmailAuthService.java
+│   │   │   │   │       └── EmailService.java
+│   │   │   │   ├── jwt/
+│   │   │   │   │   └── JwtTokenProvider.java
+│   │   │   │   ├── repository/
+│   │   │   │   │   └── MemberRepository.java
+│   │   │   │   ├── security/
+│   │   │   │   │   ├── annotation/
+│   │   │   │   │   │   └── CurrentUser.java
+│   │   │   │   │   ├── config/
+│   │   │   │   │   │   └── SecurityConfig.java
+│   │   │   │   │   ├── filter/
+│   │   │   │   │   │   └── JwtAuthenticationFilter.java
+│   │   │   │   │   ├── oauth/
+│   │   │   │   │   │   ├── CustomOAuth2User.java
+│   │   │   │   │   │   ├── CustomOAuth2UserService.java
+│   │   │   │   │   │   └── OAuth2LoginSuccessHandler.java
+│   │   │   │   │   └── service/
+│   │   │   │   │       ├── CustomUserDetails.java
+│   │   │   │   │       └── CustomUserDetailsService.java
+│   │   │   │   └── service/
+│   │   │   │       └── MemberService.java
+│   │   │   ├── mypage/
+│   │   │   │   ├── controller/
+│   │   │   │   │   ├── MyPageController.java
+│   │   │   │   │   └── MyPageTestController.java
+│   │   │   │   └── service/
+│   │   │   │       ├── MyPageService.java
+│   │   │   │       └── MyPageServiceImpl.java
+│   │   │   ├── product/
+│   │   │   │   ├── S3/
+│   │   │   │   │   ├── config/
+│   │   │   │   │   │   └── S3Config.java
+│   │   │   │   │   ├── controller/
+│   │   │   │   │   │   └── S3Controller.java
+│   │   │   │   │   └── service/
+│   │   │   │   │       └── S3Service.java
+│   │   │   │   ├── controller/
+│   │   │   │   │   ├── SalePostController.java
+│   │   │   │   │   └── TestSalePostController.java
+│   │   │   │   ├── dto/
+│   │   │   │   │   ├── AdminSalePostDetailResponse.java
+│   │   │   │   │   ├── AdminSalePostSummaryResponse.java
+│   │   │   │   │   ├── CategoryRequest.java
+│   │   │   │   │   ├── CategoryResponse.java
+│   │   │   │   │   ├── PageResponse.java
+│   │   │   │   │   ├── SalePostCreateRequest.java
+│   │   │   │   │   ├── SalePostDetailResponse.java
+│   │   │   │   │   ├── SalePostRequest.java
+│   │   │   │   │   ├── SalePostSummaryResponse.java
+│   │   │   │   │   └── TopPostSummaryProjection.java
+│   │   │   │   ├── elasticsearch/
+│   │   │   │   │   ├── controller/
+│   │   │   │   │   │   ├── SalePostEsController.java
+│   │   │   │   │   │   └── TestSalePostEsController.java
+│   │   │   │   │   ├── dto/
+│   │   │   │   │   │   ├── ElasticInsertRequestDTO.java
+│   │   │   │   │   │   ├── SalePostEsDocument.java
+│   │   │   │   │   │   └── SearchRequestDTO.java
+│   │   │   │   │   ├── entity/
+│   │   │   │   │   ├── repository/
+│   │   │   │   │   │   └── SalePostEsRepository.java
+│   │   │   │   │   └── service/
+│   │   │   │   │       ├── SalePostEsService.java
+│   │   │   │   │       └── SalePostEsServiceImpl.java
+│   │   │   │   ├── entity/
+│   │   │   │   │   ├── Category.java
+│   │   │   │   │   ├── SaleCompleteRequest.java
+│   │   │   │   │   ├── SalePost.java
+│   │   │   │   │   └── SalePostImage.java
+│   │   │   │   ├── kamis/
+│   │   │   │   │   ├── KamisClient.java
+│   │   │   │   │   ├── controller/
+│   │   │   │   │   │   └── KamisController.java
+│   │   │   │   │   ├── dto/
+│   │   │   │   │   │   ├── request/
+│   │   │   │   │   │   │   └── KamisSearchRequestDTO.java
+│   │   │   │   │   │   └── response/
+│   │   │   │   │   │       ├── KamisCodeResponseDTO.java
+│   │   │   │   │   │       ├── KamisGetAllResponseDTO.java
+│   │   │   │   │   │       └── KamisSearchResponseDTO.java
+│   │   │   │   │   ├── entity/
+│   │   │   │   │   │   └── Kamis.java
+│   │   │   │   │   ├── repository/
+│   │   │   │   │   │   └── KamisRespotiroy.java
+│   │   │   │   │   └── service/
+│   │   │   │   │       └── KamisService.java
+│   │   │   │   ├── product_enum/
+│   │   │   │   │   ├── SaleStatement.java
+│   │   │   │   │   └── Yn.java
+│   │   │   │   ├── repository/
+│   │   │   │   │   ├── CategoryRepository.java
+│   │   │   │   │   ├── SalePostImageRepository.java
+│   │   │   │   │   └── SalePostRepository.java
+│   │   │   │   └── service/
+│   │   │   │       ├── SalePostService.java
+│   │   │   │       └── SalePostServiceImpl.java
+│   │   │   ├── redis/
+│   │   │   │   ├── RedisConfig.java
+│   │   │   │   ├── RedisPublisher.java
+│   │   │   │   └── RedisSubscriber.java
+│   │   │   └── report/
+│   │   │       ├── controller/
+│   │   │       │   └── ReportController.java
+│   │   │       ├── dto/
+│   │   │       │   └── ReportRequest.java
+│   │   │       ├── entity/
+│   │   │       │   ├── Report.java
+│   │   │       │   └── ReportKind.java
+│   │   │       ├── repository/
+│   │   │       │   └── ReportRepository.java
+│   │   │       └── service/
+│   │   │           └── ReportService.java
 │   │   └── resources/
-│   │       ├── application.yml
-│   │       ├── static/
-│   │       └── templates/
+│   │       ├── application-dev.properties
+│   │       ├── application-prod.properties
+│   │       ├── application.properties
+│   │       └── static/
+│   │           ├── admin/
+│   │           │   ├── adminCategories.html
+│   │           │   ├── adminMain.html
+│   │           │   ├── adminMember.html
+│   │           │   ├── adminReport.html
+│   │           │   ├── adminSalePost.html
+│   │           │   └── adminSalePostDetail.html
+│   │           ├── createPost.html
+│   │           ├── getAll.html
+│   │           ├── index.html
+│   │           ├── js/
+│   │           │   └── fetchWithAuth.js
+│   │           ├── myPage.html
+│   │           ├── pageGetAll.html
+│   │           ├── test-sale-post.html
+│   │           └── websocket.html
 │   └── test/
-│       └── java/com/qithon/clearplate/
-│           └── ClearplateApplicationTests.java
+│       └── java/likelion/
+│           ├── beanBa/backendProject/product/kamis/
+│           │   └── KamisClientTest.java
+│           └── sikjajaeDeal/backendProject/
+│               └── BackendProjectApplicationTests.java
 ├── build.gradle
-├── docker-compose.dev.yml
-├── docker-compose.prod.yml
-├── Dockerfile
+├── gradlew
+├── gradlew.bat
 └── settings.gradle
 ```
 
@@ -241,16 +435,10 @@ clearplate/
 ## 회고
 
 ### 느낀 점
-- 정말 다양한 사람과 협업을 해봐야함을 느꼈다. 특히 같은 포지션의 개발자들과의 협업 경험이 매우 중요함을 느낀 대회였다.
-- 내가 작성한 코드가 나만 보는것이 아님을 깨닫는 순간 사소한 함수명, 아주 사소한 변수명 까지도 한번 더 생각해보게 되었다.
-- 특히 높은 효율을 위해서는 나의 코드가 직관적으로 이해될 수 있어야 함을 느꼈다(안 그러면 팀원이 이를 이해하는데 너무나 많은 시간이 소요된다)
-- 같은 포지션과의 협업 경험은 나의 볼품없는 코드를 개선시키고 더욱 직관적으로 만든다. 
+- 
 
 ### 개선할 점
-- 제출 5분전에 CI/CD 파이프라인이 갑자기 먹통되는 이슈가 발생했다. 아직도 이 이유를 찾지 못했고 제출 시간이 지나고 나서 다시 한번 시도했을 때 동작하였다.
-- 절대 제출 5분전에 뭔가를 하려고 하지말자.. 도저히 수습이 안된다
+- 
 ---
-<img width="1274" height="717" alt="스크린샷 2025-07-18 오후 10 38 44" src="https://github.com/user-attachments/assets/cf3bd071-7fe9-4ac1-bcbc-94cebc5ba655" />
-<img width="1274" height="717" alt="스크린샷 2025-07-18 오후 10 39 18" src="https://github.com/user-attachments/assets/16f63e58-7e6f-4ab1-8bfc-6f1c398daef9" />
-<img width="1274" height="717" alt="스크린샷 2025-07-18 오후 10 39 39" src="https://github.com/user-attachments/assets/7c757e22-cc3b-4a1e-bb4e-d5a6c269dd50" />
-<img width="1274" height="717" alt="스크린샷 2025-07-18 오후 10 40 26" src="https://github.com/user-attachments/assets/5c8b83be-7296-49ce-bfb1-72fd179e35eb" />
+<img width="1051" height="592" alt="스크린샷 2025-07-28 오전 10 13 44" src="https://github.com/user-attachments/assets/8fe1973e-fa64-4169-ba70-b6dd5e23b7d9" />
+<img width="1051" height="592" alt="스크린샷 2025-07-28 오전 10 14 10" src="https://github.com/user-attachments/assets/180ee191-c637-4b39-b087-927625c1c001" />
