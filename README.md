@@ -68,9 +68,9 @@ CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
 
 ### 사전 요구사항
 - JDK 17
-- Gradle 8.13
-- MySQL 8.0
-- Spring Boot 3.4.4
+- Gradle 8.x+
+- MySQL 8.0+
+- Spring Boot 3.5.3
 
 ### 로컬 환경에서 실행
 1. 레포지토리 클론
