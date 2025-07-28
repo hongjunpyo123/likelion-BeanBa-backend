@@ -75,18 +75,18 @@ BeanBa는 다음과 같은 주요 기능을 제공합니다:
 - Spring Boot 3.5.3
 
 ### 배포된 서비스 접속
-현재 BeanBa 프로젝트는 2025.07.28 을 기점으로 배포가 중단되었습니다. ( https://beanba.store )
+- 현재 BeanBa 프로젝트는 2025.07.28 을 기점으로 배포가 중단되었습니다. ( https://beanba.store )
 
 ### 로컬 환경에서 실행
-본 프로젝트는 AWS 클라우드 서비스, 외부 api와 밀접하게 연결되어 있어 로컬 실행이 제한적입니다.
+- 본 프로젝트는 AWS 클라우드 서비스, 외부 api와 밀접하게 연결되어 있어 로컬 실행이 제한적입니다.
 
 필요한 클라우드 서비스:
 
-AWS RDS (MySQL 데이터베이스)
-AWS S3 (파일 저장소)
-AWS Elasticsearch Service
-KAMIS API 키
-OAuth2 클라이언트 설정 (카카오, 구글)
+- AWS RDS (MySQL 데이터베이스)
+- AWS S3 (파일 저장소)
+- AWS Elasticsearch Service
+- KAMIS API 키
+- OAuth2 클라이언트 설정 (카카오, 구글)
 
 ---
 
