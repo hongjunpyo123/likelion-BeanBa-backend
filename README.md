@@ -14,26 +14,28 @@
   - [회고](#회고)
 ---
 ## 프로젝트 소개
-**식자재 전문 거래 플랫폼 BeanBa**는 자취생, 1인 가구를 대상으로 구매후 남은 식자재를 판매하거나 필요한 만큼 식자재를 거래할 수 있는 플랫폼 입니다.
-CLEARPLATE 는 아래와 같은 목적으로 시작하였습니다:
+**식자재 전문 거래 플랫폼 BeanBa는 자취생, 1인 가구를 대상으로 구매 후 남은 식자재를 판매하거나 필요한 만큼 식자재를 거래할 수 있는 C2C(개인 간 거래) 중심의 플랫폼입니다. 
+BeanBa는 아래와 같은 목적으로 시작하였습니다:
 
-- 남기고, 버리고, 잊는 것이 너무 자연스러워진 우리의 식습관! 이것을 바꿔볼 수는 없을까?
-- 음식을 남김없이 먹는 것에 '재미' 와 '보상' 을 더해 지속 가능한 행동을 유도할 수 있지 않을까?
-- 어떻게 하면 음식을 판매하는 소상공인들을 우리 서비스에 끌어들일 수 있을까?
+- 대량 구매로 인해 남는 식자재를 판매할 수는 없을까?
+- 신선한 식자재를 소량으로 필요한 만큼만 구매할 수 있는 방법은 없을까?
+- 개인 간 직접 거래를 통해 중간 유통업체를 거치지 않고 더 합리적인 가격으로 거래할 수 있지 않을까?
+- 전문 농가뿐만 아니라 일반 개인도 쉽게 식자재를 판매할 수 있는 플랫폼은 만들 수 없을까?
 
-이러한 문제점들을 해결하기 위해, CLEARPLATE는 외식 상황에서 완식률을 AI로 분석하여 환경 실천을 리워드로 보상하는 플랫폼을 제공합니다.
-사용자는 식사 전후 사진을 업로드하고 AI 기반 완식률을 분석하여 도장 및 포인트 적립을 통해 환경 보호를 실천할 수 있습니다
-또한 완식을 달성한 매장에서는 도장이 부여되며 이를 통해 쿠폰을 교환하고 해당 매장의 재방문률을 높이는 결과를 얻을 수 있습니다
+이러한 문제점들을 해결하기 위해, BeanBa는 개인 간 거래(C2C)를 중심으로 하되 전문 생산자도 참여할 수 있는 열린 식자재 거래 플랫폼을 제공합니다. 
+일반 사용자는 남은 식자재를 간편하게 판매하고 필요한 식자재를 소량으로 구매할 수 있으며, 전문 농가나 생산자도 직접 소비자와 거래할 수 있습니다. 
+실시간 농산물 가격 정보를 통해 합리적인 거래가 가능합니다.
 
 
 ---
 ## 주요 기능
-CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
-1. QR 기반 식당 인증 - QR 코드를 통해 제휴 매장을 확인하고 위치를 인증합니다. 이용자가 해당 매장에 방문하였는지 확인하는 기능입니다.(악용 방지 장치)
-2. AI 기반 완식률 분석 - 식사 전후 사진을 서비스에 업로드하면 AI가 완식률을 계산하고 퍼센트로 알려줍니다. 먹기 전과 먹은 후의 사진을 대조하여 악용을 방지하고 정확도를 올리는 방식으로 동작합니다.
-3. 리워드 시스템 - 80% 이상 완식 시 도장과 포인트를 지급합니다. 도장 5개 수집 시 매장 할인 쿠폰을 제공하여 재방문을 유도하고, 포인트로는 환경 단체 기부나 CLP 굿즈 구매가 가능합니다.
-4. 기록 및 분석 - 개인별 완식률, 주간 분석 등을 제공하여 사용자의 환경 실천 현황을 시각화합니다. 지속적인 동기부여를 위한 개인 맞춤형 피드백을 제공합니다.
-5. 사회적 가치 연결 - 개인의 작은 실천이 환경 보호와 경제 활성화로 연결되는 구조를 통해 사회적 가치를 실현합니다.
+BeanBa는 다음과 같은 주요 기능을 제공합니다:
+1. 지역 기반 식자재 거래 - GPS 위치 정보를 활용하여 사용자 주변 2km 내 거래 가능한 식자재를 실시간으로 확인할 수 있습니다. 지도 인터페이스를 통해 직관적으로 거래 현황을 파악하고 신선한 식자재의 빠른 거래를 지원합니다.
+2. 개인 간 거래(C2C) 중심의 유연한 거래 시스템 - 마트에서 대량 구매한 식자재, 요리 후 남은 재료, 선물받은 식품 등을 개인이 직접 판매할 수 있어 음식물 쓰레기를 줄이고 경제적 효과를 얻을 수 있습니다. 동시에 전문 생산자도 참여하여 다양한 선택권을 제공합니다.
+3. 실시간 농산물 가격 정보 제공 - KAMIS(농산물유통정보) API를 연동하여 전국 주요 농산물의 실시간 도매가격을 제공합니다. 개인 판매자와 구매자 모두 시장 가격을 기준으로 합리적인 가격 책정과 구매 결정을 할 수 있어 투명한 거래가 가능합니다.
+4. 빠른 게시물 탐색 - ElasticSearch 를 사용하여 빠른 게시물 탐색이 가능합니다.
+5. 실시간 채팅 거래 시스템 - WebSocket 기반 실시간 채팅을 통해 판매자와 구매자 간 즉시 소통이 가능합니다.
+6. 소셜 로그인 및 신뢰도 시스템 - 카카오, 구글 OAuth2를 통한 간편 로그인과 사용자 신뢰도 평가 시스템을 제공합니다. 거래 후기, 평점, 신고 기능 등을 통해 안전한 거래 환경을 조성하고 신뢰할 수 있는 거래 파트너를 확인할 수 있습니다.
 
 
 ---
@@ -100,16 +102,10 @@ CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
 | **상품 보기** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 21 34" src="https://github.com/user-attachments/assets/59918d27-6a97-4caa-8d44-4b84bcd71b8a" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 25 05" src="https://github.com/user-attachments/assets/3a7ce4ee-d424-46e4-a3ed-9bf0f77ec29b" /> <img width="1468" height="322" alt="스크린샷 2025-07-28 오전 10 24 09" src="https://github.com/user-attachments/assets/d826f1b9-a185-4f9d-b85f-1eab85a8e8b9" />|
 | **상품 등록하기(판매하기)** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 26 06" src="https://github.com/user-attachments/assets/c1e45940-ae02-40fe-b86a-6642a9e0c523" /> <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 26 52" src="https://github.com/user-attachments/assets/10777dec-67ce-4ed1-b820-6186886e86eb" /> <img width="1468" height="689" alt="스크린샷 2025-07-28 오전 10 27 35" src="https://github.com/user-attachments/assets/a07904d0-e65f-4739-ac62-38d40b0cbb6e" />|
 | **식재료 검색** | <img width="1468" height="725" alt="스크린샷 2025-07-28 오전 10 29 07" src="https://github.com/user-attachments/assets/a3071420-104f-44f7-8e3b-67fc89328574" /> <img width="1468" height="633" alt="스크린샷 2025-07-28 오전 10 30 16" src="https://github.com/user-attachments/assets/b6c2d9d7-9483-4f62-bb4b-0a1a33d9ab97" /> |
-| **사진 업로드 (완료)** | <img src="https://github.com/user-attachments/assets/7f6b2518-01fc-4f09-9d32-506616527dda" width="150"> |
-| **완식률 분석** | <img src="https://github.com/user-attachments/assets/d33d2f56-0367-451b-aff4-f82faaf93655" width="150"> <img src="https://github.com/user-attachments/assets/3eb6df21-c4c5-4425-adbe-cb79e9951568" width="150"> |
-| **마이페이지 & 쿠폰함** | <img src="https://github.com/user-attachments/assets/30673109-2c9b-4358-bfe2-710e433c2656" width="150"> <img src="https://github.com/user-attachments/assets/0ccaf618-86d4-40ea-b8cb-f26da449f70" width="150"> |
-| **쿠폰 상세 & 포인트 내역** | <img src="https://github.com/user-attachments/assets/b727fe20-f82c-4e4d-8029-9f0e6d2e69b0" width="150"> <img src="https://github.com/user-attachments/assets/d8fd9128-ee26-4c3f-8e18-7314a56eb7b1" width="150"> |
-| **포인트 사용 (1)** | <img src="https://github.com/user-attachments/assets/6cf704af-5594-4356-8a57-e05a05c9256f" width="150"> <img src="https://github.com/user-attachments/assets/cd4b0598-e722-437a-b0c5-e0ea1efe3307" width="150"> |
-| **포인트 사용 (2)** | <img src="https://github.com/user-attachments/assets/38d0fc06-48f2-45b4-a720-55e6e2006f89" width="150"> <img src="https://github.com/user-attachments/assets/ef756a59-0f16-4d78-82f0-c2de8246a5ba" width="150"> |
-
-
-
-
+| **마이페이지** | <img width="1470" height="724" alt="스크린샷 2025-07-28 오전 11 11 13" src="https://github.com/user-attachments/assets/8fbaf8e4-773c-49be-92a3-69e52d44cc80" /> |
+| **마이페이지(찜한상품)** | <img width="1470" height="618" alt="스크린샷 2025-07-28 오전 11 12 05" src="https://github.com/user-attachments/assets/116485ee-107d-4e75-8ac5-602a6cde7611" /> |
+| **마이페이지(개인정보수정)** | <img width="1470" height="651" alt="스크린샷 2025-07-28 오전 11 13 05" src="https://github.com/user-attachments/assets/ff29d618-0e15-4ecd-9a3a-6c85cdc9b1f6" /> <img width="1470" height="407" alt="스크린샷 2025-07-28 오전 11 13 47" src="https://github.com/user-attachments/assets/cfe4c759-a842-49c3-82bc-3592ce2d2a85" />|
+| **마이페이지(내 게시글 보기)** | <img width="1466" height="721" alt="스크린샷 2025-07-28 오전 11 16 43" src="https://github.com/user-attachments/assets/05bc39fc-74e8-4e40-8e88-39cef18066c1" /> |
 
 
 ---
