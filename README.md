@@ -123,6 +123,10 @@ CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
 - GitHub: [@sm010422](https://github.com/sm010422)
 ---
 ### Backend Developer
+<img src="https://avatars.githubusercontent.com/u/53433244?v=4" width="100" height="100" style="border-radius: 50%;" />
+
+- GitHub: [@hwichoi0317](https://github.com/hwichoi0317)
+
 <img src="https://github.com/hongjunpyo123.png" width="100" height="100" style="border-radius: 50%;" />
 
 - GitHub: [@hongjunpyo123](https://github.com/hongjunpyo123)
@@ -134,6 +138,10 @@ CLEARPLATE는 다음과 같은 주요 기능을 제공합니다:
 <img src="https://avatars.githubusercontent.com/u/97264463?v=4" width="100" height="100" style="border-radius: 50%;" />
 
 - GitHub: [@KwanjungKim](https://github.com/KwanjungKim)
+
+<img src="https://avatars.githubusercontent.com/u/71905358?v=4" width="100" height="100" style="border-radius: 50%;" />
+
+- GitHub: [@Nam-I](https://github.com/Nam-I)
 
 <img src="https://avatars.githubusercontent.com/u/71905358?v=4" width="100" height="100" style="border-radius: 50%;" />
 
