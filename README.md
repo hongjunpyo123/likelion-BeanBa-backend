@@ -222,7 +222,8 @@ clearplate/
 
 ---
 ## infra
-<img width="960" height="513" alt="beanba-infra" src="https://github.com/user-attachments/assets/819ba5e1-bc74-4ec7-b7f8-5d2610a9ab10" />
+<img width="954" height="506" alt="멋사-beanba-인프라" src="https://github.com/user-attachments/assets/43a3e4ae-06f7-49a2-a51f-e66e69491095" />
+
 
 ---
 ## 회고
