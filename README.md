@@ -429,6 +429,8 @@ beanBa-backend/
 ---
 ## infra
 <img width="954" height="506" alt="멋사-beanba-인프라" src="https://github.com/user-attachments/assets/43a3e4ae-06f7-49a2-a51f-e66e69491095" />
+* Github Action 을 통한 CI/CD 파이프라인을 구축하였습니다.
+* Nginx 를 통해 CI/CD 가 동작할 때 마다 Spring (Blue / Green) 서버를 스왑하는 방식으로 무중단 배포를 구축하였습니다.
 
 
 ---
