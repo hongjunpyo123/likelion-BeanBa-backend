@@ -103,7 +103,11 @@ BeanBa는 다음과 같은 주요 기능을 제공합니다:
 | **마이페이지(찜한상품)** | <img width="1470" height="618" alt="스크린샷 2025-07-28 오전 11 12 05" src="https://github.com/user-attachments/assets/116485ee-107d-4e75-8ac5-602a6cde7611" /> |
 | **마이페이지(개인정보수정)** | <img width="1470" height="651" alt="스크린샷 2025-07-28 오전 11 13 05" src="https://github.com/user-attachments/assets/ff29d618-0e15-4ecd-9a3a-6c85cdc9b1f6" /> <img width="1470" height="407" alt="스크린샷 2025-07-28 오전 11 13 47" src="https://github.com/user-attachments/assets/cfe4c759-a842-49c3-82bc-3592ce2d2a85" />|
 | **마이페이지(내 게시글 보기)** | <img width="1466" height="721" alt="스크린샷 2025-07-28 오전 11 16 43" src="https://github.com/user-attachments/assets/05bc39fc-74e8-4e40-8e88-39cef18066c1" /> |
-
+| **관리자페이지(메인)** | <img width="1466" height="721" alt="스크린샷 2025-07-28 오전 11 50 53" src="https://github.com/user-attachments/assets/92fa2688-eaa3-4395-89ba-c524f5442194" /> |
+| **관리자페이지(사용자 관리 1)** | <img width="1466" height="721" alt="스크린샷 2025-07-28 오전 11 51 28" src="https://github.com/user-attachments/assets/3022143d-fc16-45a3-98f8-f419074f7de7" /> <img width="1466" height="72" alt="스크린샷 2025-07-28 오전 11 52 17" src="https://github.com/user-attachments/assets/42a757e2-b988-4a6b-8204-1cf323359ad8" />|
+| **관리자페이지(신고자 리스트)** | <img width="1466" height="722" alt="스크린샷 2025-07-28 오전 11 53 00" src="https://github.com/user-attachments/assets/52b22dd6-42d6-42b5-b829-d3c2af37ca0c" /> |
+| **관리자페이지(상품 리스트)** | <img width="1466" height="722" alt="스크린샷 2025-07-28 오전 11 53 23" src="https://github.com/user-attachments/assets/50de8bed-1598-4101-aac4-e8b475f6f1c1" /> <img width="1466" height="565" alt="스크린샷 2025-07-28 오전 11 54 01" src="https://github.com/user-attachments/assets/2ad76f94-8ba3-4e3c-954c-df377f19cc48" /> |
+| **관리자페이지(카데코리 관리)** | <img width="1466" height="725" alt="스크린샷 2025-07-28 오전 11 54 50" src="https://github.com/user-attachments/assets/cca4e2ef-91fc-423f-bf01-4486f5c863ad" /> <img width="1466" height="303" alt="스크린샷 2025-07-28 오전 11 55 11" src="https://github.com/user-attachments/assets/a69d2d08-8148-4b94-850a-65d08d10f634" />|
 
 ---
 ## 팀원 소개
